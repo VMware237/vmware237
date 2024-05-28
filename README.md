@@ -8,7 +8,7 @@ During my internship at IBM Pheme Software Ltd., I honed my skills in transformi
 In my free time, I enjoy solving jigsaw puzzles and participating in escape rooms. These hobbies have sharpened my problem-solving skills and attention to detail, which I find invaluable in my data analysis work. Just like piecing together a puzzle or finding a way out of an escape room, I thrive on identifying patterns and solving complex problems through data.
 
 *   🌍  I'm based in New Jersey, USA
-*   🖥️  See my portfolio at [Personal Portfolio](http://https://ellipsoid-lion-hsfp.squarespace.com/)
+*   🖥️  See my portfolio at [Personal Portfolio](https://ellipsoid-lion-hsfp.squarespace.com/)
 *   ✉️  You can contact me at [vmhaske059@gmail.com](mailto:vmhaske059@gmail.com)
 *   🧠  I'm learning integration of artificial intelligence (AI) and automation.### Skills 
 
