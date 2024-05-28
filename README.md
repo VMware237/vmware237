@@ -1,4 +1,4 @@
-Hi, My name is Vaishnavi Arvind Mhaske! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi there, I'm Vaishnavi Arvind Mhaske! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================================
 
 As a recent graduate with a Master's in Computer Science and an Honors degree in Artificial Intelligence and Machine Learning, I am eager to embark on a professional journey. My academic background has equipped me with a strong foundation in statistical analysis, data visualization, and machine learning. I am particularly fascinated by the power of data to tell compelling stories and drive business decisions. <br>
