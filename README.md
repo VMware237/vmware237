@@ -27,7 +27,7 @@ In my free time, I enjoy solving jigsaw puzzles and participating in escape room
 <h2 align="center">🛠️ Languages Frameworks & Tools 🛠️</h2>
 <br/>
 <div align="left">
-  <b>Languages</b>
+  <b>Languages</b> <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,java,sql"/> <br>
     <img src="https://skillicons.dev/icons?i=tableau,power BI,sas,ms excel,msoffice"/> <br>
