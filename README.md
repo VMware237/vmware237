@@ -28,9 +28,9 @@ In my free time, I enjoy solving jigsaw puzzles and participating in escape room
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,R,java,sql"/> <br>
+    <img src="https://skillicons.dev/icons?i=python,r,java,sql"/> <br>
     <img src="https://skillicons.dev/icons?i=tableau,power BI,sas,ms excel,ms     suites"/> <br>
-    <img src="https://skillicons.dev/icons?i=anaconda,jupyter notebook,sql server management studio,vs code,pycharm,github,android studio"/> <br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,google firebase"/> <br>    
+    <img src="https://skillicons.dev/icons?i=anaconda,jupyternotebook,sqlservermanagementstudio,vscode,pycharm,git,androidstudio"/> <br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,googlefirebase"/>    
   </a>
 </div>
