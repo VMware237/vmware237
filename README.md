@@ -13,7 +13,7 @@ In my free time, I enjoy solving jigsaw puzzles and participating in escape room
 *   🧠  I'm learning integration of artificial intelligence (AI) and automation.### Skills 
 
 
-<div align = "left">
+<div align = "center">
   <a href="mailto:vmhaske059@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
@@ -26,6 +26,7 @@ In my free time, I enjoy solving jigsaw puzzles and participating in escape room
 
 <h2 align="center">🛠️ Languages Frameworks & Tools 🛠️</h2>
 <br/>
+## Languages
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,java,sql"/> <br>
