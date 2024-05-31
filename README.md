@@ -23,14 +23,9 @@ In my free time, I enjoy solving jigsaw puzzles and participating in escape room
   <a href="https://ellipsoid-lion-hsfp.squarespace.com" target"_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-
-<h2 align="center">🛠️ Languages Frameworks & Tools 🛠️</h2>
-<br/>
-<div align="left">
-    <b>Languages</b> <br/>
-    <img src="https://skillicons.dev/icons?i=python,r,java,sql"/> <br>
-    <img src="https://skillicons.dev/icons?i=tableau,power BI,sas,ms excel,msoffice"/> <br>
-    <img src="https://skillicons.dev/icons?i=anaconda,jupyternotebook,sqlservermanagementstudio,vscode,pycharm,git,androidstudio"/> <br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,googlefirebase"/>    
-  </a>
 </div>
+
+## Operating System
+<img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> 
+<img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png">
+<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa">
