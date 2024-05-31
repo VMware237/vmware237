@@ -26,7 +26,7 @@ In my free time, I enjoy solving jigsaw puzzles and participating in escape room
 </div>
 
 ## 🛠️Languages & Tools⚒️
-<img align="right" alt="Hacking" width="600" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Hacking" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 #### Languages
 <img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> <img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> 
 
