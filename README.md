@@ -15,9 +15,6 @@ As a Data Analyst with **4+ years of experience** in healthcare and finance and 
   <a href="https://www.linkedin.com/in/vaishnavim237" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ellipsoid-lion-hsfp.squarespace.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://github.com/VMware237?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -61,9 +58,9 @@ As a Data Analyst with **4+ years of experience** in healthcare and finance and 
 
 ## 🎓 Education
 
-**Master of Science in Computer Science**, New Jersey Institute of Technology — May 2024
+**Master of Science in Computer Science**| New Jersey Institute of Technology| CGPA:3.85/4.0 — May 2024
 
-**Bachelor of Technology in Information Technology**, NMIMS Mumbai — 2020
+**Bachelor of Technology in Information Technology**| NMIMS Mumbai| CGPA:3.82/4.0 **(University Gold Medalist)** — May 2020
 
 ---
 
