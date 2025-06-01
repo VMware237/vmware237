@@ -79,8 +79,7 @@ When I’m not immersed in data, you’ll find me:
 
 ## ☀️ Let’s Connect!
 
-- 📧 Email: [vaishnavi.a.mhaske237@gmail.com](mailto:vaishnavi.a.mhaske237@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/vaishnavim237](https://www.linkedin.com/in/vaishnavim237)  
+- 📧 Email: [vaishnavi.a.mhaske237@gmail.com](mailto:vmhaske059@gmail.com)  
 - 🌐 GitHub: [github.com/VMware237](https://github.com/VMware237)  
 
 If you’re curious about how dance steps and data pipelines align, or you want to swap recipes and data-science stories—let’s chat!  
