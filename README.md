@@ -4,23 +4,13 @@
 
 ## 🌟 About Me
 
-I’m a data enthusiast who thrives on solving puzzles—ever since I was a kid, untangling jigsaw pieces and brain teasers has driven me toward data-driven problem solving. As a **hardworking and persistent learner**, I’m happiest when I’m:
-
-- **Digging into new datasets** to uncover hidden patterns and actionable insights  
-- **Designing predictive models** that forecast future risks or opportunities  
-- **Collaborating with teammates**—because shared “aha!” moments are the best
-
-When I’m not immersed in data, you’ll find me:
-
-- 💃 **Dancing**: There’s a rhythm to data the way there’s a rhythm to dance—patterns, timing, and flow. Just like choreography, I love choreographing data pipelines that move seamlessly from raw inputs to final insights.  
-- 👩‍🍳 **Cooking & Experimenting**: Combining ingredients in new ways reminds me of feature engineering—tweaking a recipe until it’s just right. Whether it’s a spicy curry or a healthy smoothie bowl, I’m always testing new “data points” in my kitchen lab.  
-- 🤝 **Connecting & Collaborating**: From leading study groups in college to organizing community hackathons, I believe learning happens best together. I’ve chaired multiple workshops and hack days, always eager to share tips (and dance moves!) with friends and peers.
+I’m a data enthusiast who thrives on solving puzzles—ever since I was a kid, untangling jigsaw pieces and brain teasers has driven me toward data-driven problem solving. 
 
 ---
 
 ## 🚀 What Drives Me in Data
 
-- **Puzzle Mindset**: Each dataset is a puzzle waiting to be solved.  
+- **Puzzle Mindset**: Each dataset is a puzzle waiting to to uncover hidden patterns and actionable insights.  
 - **Curiosity & Persistence**: No question is too small; no query too complex. I keep iterating until every edge case is addressed.  
 - **Impact-Oriented**: I love turning insights into action—whether it’s improving program engagement in nonprofits or optimizing forecasts for healthcare. Data is only as good as the decisions it informs.
 
@@ -61,19 +51,13 @@ When I’m not immersed in data, you’ll find me:
 
 ---
 
-## 🎯 My Philosophy
-
-> “Data, like dance, is about finding harmony in patterns.”  
->
-> - Every dataset has a beat—a cadence that emerges when you let the numbers lead. I aim to uncover those rhythms, choreograph insights, and empower teams to move in sync toward data-driven success.
-
----
-
 ## 🎉 Fun Facts & Passions
 
-- **Dance & Data:** Just as a choreographer designs steps to music, I design data pipelines to tell a story. Both require anticipation, precision, and creativity.  
-- **Culinary Scientist:** Experimenting with spices is my version of hyperparameter tuning—adjusting little elements until the result is deliciously balanced.  
-- **Community Builder:** I’ve led 5+ college hackathons and data-science study groups—nothing beats the energy of a room full of problem-solvers collaborating in real time.  
+When I’m not immersed in data, you’ll find me:
+
+- 💃 **Dancing**: I see data like choreography—patterns, timing, and flow—and love designing pipelines that move seamlessly from raw input to insight.
+- 👩‍🍳 **Cooking & Experimenting**: Mixing ingredients mirrors feature engineering—tweaking until everything comes together perfectly.
+- 🤝 **Connecting & Collaborating**: Collaborating with teammates because shared “aha!” moments are the best.
 
 ---
 
