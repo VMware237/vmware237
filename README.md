@@ -18,30 +18,111 @@ I’m a data enthusiast who thrives on solving puzzles—ever since I was a kid,
 
 ## 🛠️ My Toolbox
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) 
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4E30?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+<div align="center">
+  <!-- Programming & ML Frameworks -->
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png" alt="Pandas" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://numpy.org/" title="NumPy">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" alt="NumPy" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://scikit-learn.org/" title="Scikit-learn">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="Scikit-learn" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" alt="PyTorch" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://streamlit.io/" title="Streamlit">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/streamlit/streamlit.png" alt="Streamlit" width="40" style="margin:0 8px"/>
+  </a>
+</div>
 
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![Snowflake](https://img.shields.io/badge/Snowflake-2D8FCE?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/) 
+<br>
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) 
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+<div align="center">
+  <!-- Databases & BI Tools -->
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.snowflake.com/" title="Snowflake">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" alt="Snowflake" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://aws.amazon.com/" title="AWS">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="AWS" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://azure.microsoft.com/" title="Azure">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" alt="Azure" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.tableau.com/" title="Tableau">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png" alt="Tableau" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" title="Power BI">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" alt="Power BI" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://cloud.google.com/looker" title="Looker">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/looker.svg" alt="Looker" width="40" style="margin:0 8px"/>
+  </a>
+</div>
 
-[![Tableau](https://img.shields.io/badge/Tableau-4E7AC7?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)](https://powerbi.microsoft.com/) 
-[![Looker](https://img.shields.io/badge/Looker-0F83AD?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/)
+<br>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+<div align="center">
+  <!-- Data Engineering & Collaboration -->
+  <a href="https://airflow.apache.org/" title="Apache Airflow">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/apache-airflow/apache-airflow.png" alt="Airflow" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.dbt.io/" title="dbt">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/dbt/dbt.png" alt="dbt" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.informatica.com/" title="Informatica">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/informatica.svg" alt="Informatica" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.talend.com/" title="Talend">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/talend.svg" alt="Talend" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://nifi.apache.org/" title="Apache NiFi">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/apache-nifi/apache-nifi.png" alt="Apache NiFi" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://azure.microsoft.com/services/data-factory/" title="Azure Data Factory">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azuredatafactory.svg" alt="Azure Data Factory" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://aws.amazon.com/glue/" title="AWS Glue">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awsglue.svg" alt="AWS Glue" width="40" style="margin:0 8px"/>
+  </a>
+</div>
 
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel) 
-[![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
+<br>
+
+<div align="center">
+  <!-- DevOps & Collaboration -->
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" title="Jira">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="Jira" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" width="40" style="margin:0 8px"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Office & Reporting -->
+  <a href="https://www.microsoft.com/excel" title="Excel">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="Excel" width="40" style="margin:0 8px"/>
+  </a>
+  <a href="https://www.microsoft.com/powerpoint" title="PowerPoint">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerpoint.svg" alt="PowerPoint" width="40" style="margin:0 8px"/>
+  </a>
+</div>
 
 ---
 
