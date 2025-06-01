@@ -31,26 +31,6 @@ I’m a data enthusiast who thrives on solving puzzles—ever since I was a kid,
 
 ---
 
-## 📈 Selected Projects
-
-- **Amazon Sales BI Report**  
-  Designed a multi-page Power BI dashboard analyzing Amazon retail sales by category. Built custom DAX measures and interactive visuals to guide strategic decisions.  
-  👉 [View on GitHub](https://github.com/VMware237/amazonBIreport)
-
-- **Stock Price Prediction Web App**  
-  Developed an LSTM-based time series forecasting model in Python/TensorFlow. Deployed via Streamlit with Plotly visualizations, allowing users to explore dynamic price trends for any ticker.  
-  👉 [View on GitHub](https://github.com/VMware237/stockpricepredictor)
-
-- **Multiple Disease Prediction**  
-  Built classification pipelines (Logistic Regression, Random Forest, SMOTE-SVM) on healthcare datasets, deployed as an interactive Streamlit app. Demonstrates end-to-end ML: data cleaning, feature engineering, modeling, and UI.  
-  👉 [View on GitHub](https://github.com/VMware237/multiple_disease_prediction)
-
-- **Azure Olympic Data Pipeline**  
-  Orchestrated an Azure Synapse Analytics workflow to ingest and transform Olympic historical data, then built Power BI reports forecasting medal tallies. Showcases cloud-native ETL and visualization.  
-  👉 [View on GitHub](https://github.com/VMware237/azure_olympic_data_pipeline)
-
----
-
 ## 🎉 Fun Facts & Passions
 
 When I’m not immersed in data, you’ll find me:
