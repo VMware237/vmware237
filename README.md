@@ -1,69 +1,90 @@
 # Hi there, I'm Vaishnavi Arvind Mhaske! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-**Data Analyst | BI Engineer**
+---
 
-As a Data Analyst with **4+ years of experience** in healthcare and finance and a **Master’s in Computer Science**, I specialize in transforming complex data into actionable insights. I’ve increased predictive model accuracy by 35%, reduced ETL turnaround by 45%, and optimized query performance by 50%. 
+## 🌟 About Me
 
-> Seeking **senior-level or lead Data Analyst roles** where I can spearhead enterprise-wide BI strategies, mentor analytics teams, and deliver high-impact insights that drive business transformation.
+I’m a data enthusiast who thrives on solving puzzles—ever since I was a kid, untangling jigsaw pieces and brain teasers has driven me toward data-driven problem solving. As a **hardworking and persistent learner**, I’m happiest when I’m:
+
+- **Digging into new datasets** to uncover hidden patterns and actionable insights  
+- **Designing predictive models** that forecast future risks or opportunities  
+- **Collaborating with teammates**—because shared “aha!” moments are the best
+
+When I’m not immersed in data, you’ll find me:
+
+- 💃 **Dancing**: There’s a rhythm to data the way there’s a rhythm to dance—patterns, timing, and flow. Just like choreography, I love choreographing data pipelines that move seamlessly from raw inputs to final insights.  
+- 👩‍🍳 **Cooking & Experimenting**: Combining ingredients in new ways reminds me of feature engineering—tweaking a recipe until it’s just right. Whether it’s a spicy curry or a healthy smoothie bowl, I’m always testing new “data points” in my kitchen lab.  
+- 🤝 **Connecting & Collaborating**: From leading study groups in college to organizing community hackathons, I believe learning happens best together. I’ve chaired multiple workshops and hack days, always eager to share tips (and dance moves!) with friends and peers.
 
 ---
 
-<div align="center">
-  <a href="mailto:vaishnavi.a.mhaske237@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/vaishnavim237" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/VMware237?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+## 🚀 What Drives Me in Data
+
+- **Puzzle Mindset**: Each dataset is a puzzle waiting to be solved.  
+- **Curiosity & Persistence**: No question is too small; no query too complex. I keep iterating until every edge case is addressed.  
+- **Impact-Oriented**: I love turning insights into action—whether it’s improving program engagement in nonprofits or optimizing forecasts for healthcare. Data is only as good as the decisions it informs.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ My Toolbox
 
-- **Programming & Analytics:** Python (Pandas, NumPy), R, SQL, MATLAB, SAS
-- **BI & Visualization:** Tableau (Cloud/Server), Power BI, Looker, Advanced Excel (Pivot Tables, VBA)
-- **Big Data & ETL:** Apache Airflow, dbt, Informatica, Talend, NiFi, Azure Data Factory, AWS Glue
-- **Databases:** Snowflake, Redshift, PostgreSQL, MySQL, MongoDB
-- **Cloud Platforms:** AWS (S3, Redshift, EC2, Lambda, SageMaker), Azure Synapse Analytics
-- **Data Modeling & Reporting:** Dimensional Modeling, Star Schema Design, Report Development
-- **Machine Learning:** Regression Models, Tree-Based Models, Clustering, Time Series Forecasting, TensorFlow, PyTorch
-
----
-
-## 🚀 Selected Projects
-
-- **Amazon Sales BI Report** ([GitHub](https://github.com/VMware237/amazonBIreport)): Designed a multi-page Power BI dashboard to analyze Amazon retail sales across categories. Utilized Power Query for ETL, custom DAX measures, and interactive visuals to drive strategic decision-making.
-
-- **Stock Price Prediction Web App** ([GitHub](https://github.com/VMware237/stockpricepredictor)): Developed an LSTM-based time series forecasting model in Python/TensorFlow that predicts stock prices for any user-specified company. Built interactive Plotly visualizations and deployed via Streamlit for dynamic trend analysis.
+- **Languages & Libraries**:  
+  Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) · SQL · R  
+- **BI & Visualization**:  
+  Tableau · Power BI · Looker · Advanced Excel (Pivot Tables, VBA)  
+- **Cloud & Data Engineering**:  
+  AWS (Glue, Lambda, S3, Redshift, SageMaker) · Azure Synapse · Snowflake · Streamlit  
+- **ML & Statistical Methods**:  
+  Regression · Tree-Based Models · Clustering · Time-Series Forecasting · ANOVA · Hypothesis Testing  
+- **Workflow & Collaboration**:  
+  Git/GitHub · Jira · Agile/Scrum · Cross-Functional Teamwork  
 
 ---
 
-## 📈 Professional Experience Highlights
+## 📈 Selected Projects
 
-**UnitedHealth Group** | Data Analyst (Jun 2023 – Present)
-- Developed predictive models (Logistic Regression, Random Forest, XGBoost), boosting readmission accuracy by 35%.
-- Engineered ETL pipelines with Airflow, dbt, and Informatica, reducing data latency by 45%.
-- Built and maintained Tableau and QuickSight dashboards for 200+ users, improving decision response time by 40%.
+- **Amazon Sales BI Report**  
+  Designed a multi-page Power BI dashboard analyzing Amazon retail sales by category. Built custom DAX measures and interactive visuals to guide strategic decisions.  
+  👉 [View on GitHub](https://github.com/VMware237/amazonBIreport)
 
-**Bitinfocom Technologies** | Data Analyst (Jan 2020 – Aug 2022)
-- Streamlined ETL workflows using Talend and NiFi, cutting processing time by 30%.
-- Created and automated 50+ Power BI and Tableau dashboards, increasing stakeholder adoption by 35%.
-- Implemented time-series forecasting (ARIMA, Prophet) and Monte Carlo simulations for risk assessment.
+- **Stock Price Prediction Web App**  
+  Developed an LSTM-based time series forecasting model in Python/TensorFlow. Deployed via Streamlit with Plotly visualizations, allowing users to explore dynamic price trends for any ticker.  
+  👉 [View on GitHub](https://github.com/VMware237/stockpricepredictor)
 
----
+- **Multiple Disease Prediction**  
+  Built classification pipelines (Logistic Regression, Random Forest, SMOTE-SVM) on healthcare datasets, deployed as an interactive Streamlit app. Demonstrates end-to-end ML: data cleaning, feature engineering, modeling, and UI.  
+  👉 [View on GitHub](https://github.com/VMware237/multiple_disease_prediction)
 
-## 🎓 Education
-
-**Master of Science in Computer Science**| New Jersey Institute of Technology| CGPA:3.85/4.0 — May 2024
-
-**Bachelor of Technology in Information Technology**| NMIMS Mumbai| CGPA:3.82/4.0 **(University Gold Medalist)** — May 2020
+- **Azure Olympic Data Pipeline**  
+  Orchestrated an Azure Synapse Analytics workflow to ingest and transform Olympic historical data, then built Power BI reports forecasting medal tallies. Showcases cloud-native ETL and visualization.  
+  👉 [View on GitHub](https://github.com/VMware237/azure_olympic_data_pipeline)
 
 ---
 
-## 🎯 Let’s Connect!
+## 🎯 My Philosophy
 
-> I’m passionate about leveraging data and analytics to solve complex problems. Feel free to explore my work or get in touch!
+> “Data, like dance, is about finding harmony in patterns.”  
+>
+> - Every dataset has a beat—a cadence that emerges when you let the numbers lead. I aim to uncover those rhythms, choreograph insights, and empower teams to move in sync toward data-driven success.
+
+---
+
+## 🎉 Fun Facts & Passions
+
+- **Dance & Data:** Just as a choreographer designs steps to music, I design data pipelines to tell a story. Both require anticipation, precision, and creativity.  
+- **Culinary Scientist:** Experimenting with spices is my version of hyperparameter tuning—adjusting little elements until the result is deliciously balanced.  
+- **Community Builder:** I’ve led 5+ college hackathons and data-science study groups—nothing beats the energy of a room full of problem-solvers collaborating in real time.  
+
+---
+
+## ☀️ Let’s Connect!
+
+- 📧 Email: [vaishnavi.a.mhaske237@gmail.com](mailto:vaishnavi.a.mhaske237@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/vaishnavim237](https://www.linkedin.com/in/vaishnavim237)  
+- 🌐 GitHub: [github.com/VMware237](https://github.com/VMware237)  
+
+If you’re curious about how dance steps and data pipelines align, or you want to swap recipes and data-science stories—let’s chat!  
+
+---
+
+*Thanks for stopping by my corner of GitHub. Keep dancing to the rhythm of data! 💃📊*  
