@@ -18,16 +18,30 @@ I’m a data enthusiast who thrives on solving puzzles—ever since I was a kid,
 
 ## 🛠️ My Toolbox
 
-- **Languages & Libraries**:  
-  Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) · SQL · R  
-- **BI & Visualization**:  
-  Tableau · Power BI · Looker · Advanced Excel (Pivot Tables, VBA)  
-- **Cloud & Data Engineering**:  
-  AWS (Glue, Lambda, S3, Redshift, SageMaker) · Azure Synapse · Snowflake · Streamlit  
-- **ML & Statistical Methods**:  
-  Regression · Tree-Based Models · Clustering · Time-Series Forecasting · ANOVA · Hypothesis Testing  
-- **Workflow & Collaboration**:  
-  Git/GitHub · Jira · Agile/Scrum · Cross-Functional Teamwork  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) 
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4E30?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![Snowflake](https://img.shields.io/badge/Snowflake-2D8FCE?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/) 
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) 
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+
+[![Tableau](https://img.shields.io/badge/Tableau-4E7AC7?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)](https://powerbi.microsoft.com/) 
+[![Looker](https://img.shields.io/badge/Looker-0F83AD?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel) 
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
 
 ---
 
